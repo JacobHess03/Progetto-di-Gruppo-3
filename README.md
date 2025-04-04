@@ -16,7 +16,7 @@ Un semplice gestionale in Python per registrare clienti, monitorare le scadenze 
 ## 🧠 Struttura del Progetto
 
 - `Cliente`: classe che raccoglie le informazioni personali e dell’auto.
-- `Centro_Revisione_Auto`: classe che gestisce tutte le operazioni (aggiunta, modifica, cancellazione, revisione, stampa).
+- `Centro_Revisione_Auto`: classe che gestisce tutte le operazioni (aggiunta, revisione, stampa).
 - Menu interattivo per navigare tra le opzioni.
 
 ---
