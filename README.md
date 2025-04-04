@@ -8,8 +8,6 @@ Un semplice gestionale in Python per registrare clienti, monitorare le scadenze 
 
 - ✅ Inserimento nuovo cliente
 - 🧾 Gestione revisione (pagamento, conferma)
-- ✏️ Modifica dati cliente
-- 🗑️ Eliminazione cliente
 - 📋 Visualizzazione elenco clienti
 - 👥 Due modalità di accesso: **Admin** e **Cliente**
 
